@@ -1,0 +1,11 @@
+1. Create the following window using the tkinter module in Python. The button Close closes the window, and the button Print prints a greeting "Hello Python!" on the console.
+
+2. Create the following window using the tkinter module in Python. The button Quit closes the window, and the button Show prints the first name and last name and email entered in the Entry boxes.
+
+3. Create a simple calculator in Python which will allow the user to enter a number in the entry field, and either add it to or subtract it from a running total, using the "+" and "_" buttons. The reset button will allow the user to reset the total back to zero. If the entered value is not a number, then raise an appropriate exception in a MessageBox.
+
+4. Create the following Registration Form using the Tkinter module in Python. The button Submit writes all the details entered in a text file. All fields are mandatory, if the user does not choose a country, gender or select a programming language when the Submit button
+College of Technological Innovations (CTI)
+
+5. Create the following window using the tkinter module in Python. All fields are mandatory, the user must use a radio button, check boxes and Process Selection button to make selections and process the order. All fields are mandatory, if the user does not choose Topping, Pizza size or Pizza Type then popup a message box asking the user to complete the missing information. Use a text area to display the customer's order and the amount due.
+Welcome to Home Style Pizza Shop
